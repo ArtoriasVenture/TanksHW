@@ -5,39 +5,426 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638655886115349899
-    m_Hash: 4007186375
+      ticks: 638659334642399776
+    m_Hash: 1457391880
   m_LockFileStatus:
     m_FilePath: D:/Github/Tank-Game/TanksHW/Tanks-GD2-HW/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638655886272902091
-    m_Hash: 672387724
+      ticks: 638659334904928470
+    m_Hash: 2681695291
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.3.9
+    - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
-      version: 1.3.9
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+      assetPath: Packages/com.unity.2d.sprite
+      name: com.unity.2d.sprite
+      displayName: 2D Sprite
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: Use Unity Sprite Editor Window to create and edit Sprite asset
+        properties like pivot, borders and Physics shape
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - sprite
+      - sprite editor window
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.2d.tilemap@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
+      assetPath: Packages/com.unity.2d.tilemap
+      name: com.unity.2d.tilemap
+      displayName: 2D Tilemap Editor
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Tilemap Editor is a package that contains editor functionalities
+        for editing Tilemaps.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - Tilemap
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.ads@3.7.1
+      testable: 0
+      isDirectDependency: 1
+      version: 3.7.1
       source: 1
-      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.collab-proxy@1.3.9
-      assetPath: Packages/com.unity.collab-proxy
-      name: com.unity.collab-proxy
-      displayName: Unity Collaborate
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.ads@3.7.1
+      assetPath: Packages/com.unity.ads
+      name: com.unity.ads
+      displayName: Advertisement
       author:
         name: 
         email: 
         url: 
       category: 
       type: asset
-      description: Collaborate with your teammates with the official version control
-        system for Unity. Collaborate is a simple way for teams to save, share, and
-        sync your Unity project.
+      description: Unity Ads is a video ad network for iOS and Android that allows
+        you to quickly and effectively monetize your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 2.0.0
+        - 2.0.3
+        - 2.0.4
+        - 2.0.7
+        - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
+        - 3.5.0
+        - 3.5.2
+        - 3.6.1
+        - 3.7.0
+        - 3.7.1
+        - 3.7.3
+        - 3.7.5
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.2.1
+        - 4.3.0
+        - 4.4.1
+        - 4.4.2
+        - 4.12.0
+        compatible:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 2.0.0
+        - 2.0.3
+        - 2.0.4
+        - 2.0.7
+        - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
+        - 3.5.0
+        - 3.5.2
+        - 3.6.1
+        - 3.7.0
+        - 3.7.1
+        - 3.7.3
+        - 3.7.5
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.2.1
+        - 4.3.0
+        - 4.4.1
+        - 4.4.2
+        verified: 3.6.1
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - ads
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637533483430000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ads.git
+        revision: 95ec369d16df431f8c9ebbb83c0f65dc4471f07e
+        path: 
+    - packageId: com.unity.analytics@3.5.3
+      testable: 0
+      isDirectDependency: 1
+      version: 3.5.3
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.analytics@3.5.3
+      assetPath: Packages/com.unity.analytics
+      name: com.unity.analytics
+      displayName: Analytics Library
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: The Unity Analytics Library contains the Analytics Event Tracker
+        component, the Data Privacy plug-in, and the Standard Events API.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.19
+        - 2.0.5
+        - 2.0.11
+        - 2.0.13
+        - 2.0.14
+        - 2.0.15
+        - 2.0.16
+        - 3.0.5
+        - 3.0.9
+        - 3.1.1
+        - 3.2.0
+        - 3.2.2
+        - 3.2.3
+        - 3.3.0
+        - 3.3.2-preview
+        - 3.3.2
+        - 3.3.4
+        - 3.3.5
+        - 3.4.0
+        - 3.5.3
+        - 3.6.11
+        - 3.6.12
+        - 3.7.1
+        - 3.8.1
+        compatible:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.19
+        - 2.0.5
+        - 2.0.11
+        - 2.0.13
+        - 2.0.14
+        - 2.0.15
+        - 2.0.16
+        - 3.0.5
+        - 3.0.9
+        - 3.1.1
+        - 3.2.0
+        - 3.2.2
+        - 3.2.3
+        - 3.3.0
+        - 3.3.2-preview
+        - 3.3.2
+        - 3.3.4
+        - 3.3.5
+        - 3.4.0
+        - 3.5.3
+        - 3.6.11
+        - 3.6.12
+        - 3.7.1
+        - 3.8.1
+        verified: 3.5.3
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - analytics
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637381916200000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+        revision: 02d361e53eda59ceb7d02ba9bd15ff55a093ad83
+        path: 
+    - packageId: com.unity.collab-proxy@1.5.7
+      testable: 0
+      isDirectDependency: 1
+      version: 1.5.7
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.collab-proxy@1.5.7
+      assetPath: Packages/com.unity.collab-proxy
+      name: com.unity.collab-proxy
+      displayName: Version Control
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: The Version Control package gives you the ability to use either
+        Collaborate or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic
+        SCM for Unity (beta), a Plastic SCM subscription is required. Learn more
+        about how you can get started for free by visiting plasticscm.com.
       status: 4
       errors: []
       versions:
@@ -148,8 +535,12 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         verified: 1.3.9
-      dependencies: []
-      resolvedDependencies: []
+      dependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      resolvedDependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
       keywords:
       - vsc
       - version
@@ -173,13 +564,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314349270000000
+      datePublishedTicks: 637551413290000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: fa825106f349f996acff22f718845eab46ca2d7c
+        revision: f079d307344f568804d3ea6d781013135e614e45
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -298,7 +689,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.22
+        version: 1.1.27
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -326,12 +717,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.7
+    - packageId: com.unity.ide.visualstudio@2.0.11
       testable: 0
       isDirectDependency: 1
-      version: 2.0.7
+      version: 2.0.11
       source: 1
-      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -403,7 +794,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.22
+        version: 1.1.27
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -423,13 +814,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637486638490000000
+      datePublishedTicks: 637613656180000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: dec282022c7a95fada560c36f53da9dd155a142c
+        revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
         path: 
     - packageId: com.unity.ide.vscode@1.2.3
       testable: 0
@@ -504,12 +895,407 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
-    - packageId: com.unity.test-framework@1.1.22
+    - packageId: com.unity.multiplayer-hlapi@1.0.2
       testable: 0
       isDirectDependency: 1
-      version: 1.1.22
+      version: 1.0.2
       source: 1
-      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.multiplayer-hlapi@1.0.2
+      assetPath: Packages/com.unity.multiplayer-hlapi
+      name: com.unity.multiplayer-hlapi
+      displayName: Multiplayer HLAPI
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The high level API component of the Unity Multiplayer system.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.4
+        - 1.0.6
+        - 1.0.8
+        - 1.1.1
+        compatible:
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.4
+        - 1.0.6
+        - 1.0.8
+        - 1.1.1
+        verified: 
+      dependencies:
+      - name: nuget.mono-cecil
+        version: 0.1.5-preview
+      resolvedDependencies:
+      - name: nuget.mono-cecil
+        version: 0.1.5-preview
+      keywords:
+      - multiplayer
+      - networking
+      - hlapi
+      - high-level
+      - api
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636898896750000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://gitlab.cds.internal.unity3d.com/upm-packages/multiplayer/com.unity.multiplayer-hlapi.git
+        revision: a46e55980cbb98565c4634779a8f7b98cce67736
+        path: 
+    - packageId: com.unity.postprocessing@2.3.0
+      testable: 0
+      isDirectDependency: 1
+      version: 2.3.0
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.postprocessing@2.3.0
+      assetPath: Packages/com.unity.postprocessing
+      name: com.unity.postprocessing
+      displayName: Post Processing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: The post-processing stack (v2) comes with a collection of effects
+        and image filters you can apply to your cameras to improve the visuals of
+        your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.7
+        - 0.1.8
+        - 2.0.0-beta
+        - 2.0.1-beta
+        - 2.0.2-preview
+        - 2.0.3-preview
+        - 2.0.5-preview
+        - 2.0.7-preview
+        - 2.0.8-preview
+        - 2.0.9-preview
+        - 2.0.10-preview
+        - 2.0.11-preview
+        - 2.0.12-preview
+        - 2.0.13-preview
+        - 2.0.14-preview
+        - 2.0.15-preview
+        - 2.0.16-preview
+        - 2.0.17-preview
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        - 2.1.7
+        - 2.2.1
+        - 2.2.2
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        - 3.2.0
+        - 3.2.1
+        - 3.2.2
+        - 3.3.0
+        - 3.4.0
+        compatible:
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        - 3.2.0
+        - 3.2.1
+        - 3.2.2
+        - 3.3.0
+        - 3.4.0
+        verified: 3.0.3
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637144563160000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git@github.com:Unity-Technologies/PostProcessing.git
+        revision: e6de985c41f04a5fc7c7227dd67e3e73fac834e7
+        path: 
+    - packageId: com.unity.purchasing@3.2.2
+      testable: 0
+      isDirectDependency: 1
+      version: 3.2.2
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.purchasing@3.2.2
+      assetPath: Packages/com.unity.purchasing
+      name: com.unity.purchasing
+      displayName: In App Purchasing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing
+        + the Asset Store plugin) versions 2.x to version 3.x, complete the following
+        actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json
+        and BillingMode.json\n\tFROM: Assets/Plugins/UnityPurchasing/Resources/\n\tTO:
+        Assets/Resources/.\n 2. Move AppleTangle.cs and GooglePlayTangle.cs\n\tFROM:
+        Assets/Plugins/UnityPurchasing/generated\n\tTO: Assets/Scripts/UnityPurchasing/generated.\n
+        3. Remove all remaining Asset Store plugin folders and files in Assets/Plugins/UnityPurchasing
+        from your project.\n\nPACKAGE DESCRIPTION:\n\nWith Unity IAP, setting up
+        in-app purchases for your game across multiple app stores has never been
+        easier.\n\nThis package provides:\n\n \u25AA One common API to access all
+        stores for free so you can fully understand and optimize your in-game economy\n
+        \u25AA Automatic coupling with Unity Analytics to enable monitoring and decision-making
+        based on trends in your revenue and purchase data across multiple platforms\n
+        \u25AA Support for iOS, Mac, tvOS, Google Play, Windows, Amazon, and Samsung
+        Galaxy app stores(*). (*) NOTE Samsung Galaxy is obsolete and will be removed
+        in v4. Please use Unity Distribution Platform for Samsung Galaxy Apps support.\n
+        \u25AA Support to work with the Unity Distribution Portal to synchronize
+        catalogs and transactions with other app stores\n \u25AA Client-side receipt
+        validation for Apple App Store and Google Play\n\nAfter installing this package,
+        open the Services Window to enable In-App Purchasing to use these features."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.18
+        - 0.0.19
+        - 2.0.0
+        - 2.0.1
+        - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
+        - 2.1.1
+        - 2.2.0
+        - 2.2.1
+        - 2.2.2
+        - 3.0.0-pre.3
+        - 3.0.0-pre.4
+        - 3.0.0-pre.5
+        - 3.0.0-pre.6
+        - 3.0.1
+        - 3.0.2
+        - 3.1.0
+        - 3.2.1
+        - 3.2.2
+        - 3.2.3
+        - 4.0.0
+        - 4.0.3
+        - 4.1.0
+        - 4.1.1
+        - 4.1.2
+        - 4.1.3
+        - 4.1.4
+        - 4.1.5
+        - 4.2.0-pre.1
+        - 4.2.0-pre.2
+        - 4.2.1
+        - 4.3.0
+        - 4.4.0
+        - 4.4.1
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.6.0
+        - 4.7.0
+        - 4.8.0
+        - 4.9.2
+        - 4.9.3
+        - 4.9.4
+        - 4.10.0
+        - 4.11.0
+        - 4.12.0
+        - 4.12.1-pre.1
+        - 4.12.1-pre.3
+        - 4.12.1-pre.4
+        - 4.12.1
+        - 4.12.2
+        - 5.0.0-pre.1
+        compatible:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.18
+        - 0.0.19
+        - 2.0.0
+        - 2.0.1
+        - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
+        - 2.1.1
+        - 2.2.0
+        - 2.2.1
+        - 2.2.2
+        - 3.0.0-pre.3
+        - 3.0.0-pre.4
+        - 3.0.0-pre.5
+        - 3.0.0-pre.6
+        - 3.0.1
+        - 3.0.2
+        - 3.1.0
+        - 3.2.1
+        - 3.2.2
+        - 3.2.3
+        - 4.0.0
+        - 4.0.3
+        - 4.1.0
+        - 4.1.1
+        - 4.1.2
+        - 4.1.3
+        - 4.1.4
+        - 4.1.5
+        - 4.2.0-pre.1
+        - 4.2.0-pre.2
+        - 4.2.1
+        - 4.3.0
+        - 4.4.0
+        - 4.4.1
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.6.0
+        - 4.7.0
+        - 4.8.0
+        - 4.9.2
+        - 4.9.3
+        - 4.9.4
+        - 4.10.0
+        - 4.11.0
+        - 4.12.0
+        - 4.12.1-pre.1
+        - 4.12.1-pre.3
+        - 4.12.1-pre.4
+        - 4.12.1
+        - 4.12.2
+        verified: 2.2.2
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.androidjni
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unityanalytics
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.androidjni
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unityanalytics
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      keywords:
+      - purchasing
+      - iap
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637584231740000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
+        revision: 6ad60ad670b28d3a131388481318ce0d0ca2bc0d
+        path: 
+    - packageId: com.unity.test-framework@1.1.27
+      testable: 0
+      isDirectDependency: 1
+      version: 1.1.27
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.test-framework@1.1.27
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -635,20 +1421,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637469345300000000
+      datePublishedTicks: 637594751620000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
+        revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
         path: 
-    - packageId: com.unity.textmeshpro@3.0.1
+    - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
       isDirectDependency: 1
-      version: 3.0.1
+      version: 3.0.6
       source: 1
-      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -826,20 +1612,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 637547111200000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: 1604b62e543216408311bcd1355a7a9ca1e65765
+        revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
         path: 
-    - packageId: com.unity.timeline@1.4.6
+    - packageId: com.unity.timeline@1.4.8
       testable: 0
       isDirectDependency: 1
-      version: 1.4.6
+      version: 1.4.8
       source: 1
-      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1022,13 +1808,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637463150940000000
+      datePublishedTicks: 637557616100000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 2fe55e5d14362cc4fdcc886f56dbfe518298e4a5
+        revision: 527e4364e28028f20f04fc51db671eb4bb910a26
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
@@ -1092,6 +1878,77 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.xr.legacyinputhelpers@2.1.7
+      testable: 0
+      isDirectDependency: 1
+      version: 2.1.7
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
+      assetPath: Packages/com.unity.xr.legacyinputhelpers
+      name: com.unity.xr.legacyinputhelpers
+      displayName: XR Legacy Input Helpers
+      author:
+        name: 
+        email: 
+        url: 
+      category: XR
+      type: 
+      description: This package includes the tracked pose driver for the legacy input
+        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+        Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
+        to track input devices, the XR Bindings Seeding Tool adds a menu item under
+        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
+        Input Bindings
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.7
+        compatible:
+        - 2.1.7
+        verified: 2.1.7
+      dependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      keywords:
+      - TPD
+      - Tracked Pose Driver
+      - XR
+      - Input
+      - Helpers
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+        revision: b2024928b8140a10ad43aeb5824d2f08bb8796bc
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -2903,6 +3760,114 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+        path: 
+    - packageId: nuget.mono-cecil@0.1.5-preview
+      testable: 0
+      isDirectDependency: 0
+      version: 0.1.5-preview
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\nuget.mono-cecil@0.1.5-preview
+      assetPath: Packages/nuget.mono-cecil
+      name: nuget.mono-cecil
+      displayName: Mono Cecil
+      author:
+        name: 
+        email: 
+        url: 
+      category: Libraries
+      type: 
+      description: Cecil is a library to inspect, modify and generate .NET programs
+        and libraries. https://github.com/jbevain/cecil
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.5-preview
+        compatible:
+        - 0.1.5-preview
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - ECMA
+      - CIL
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.nuget.newtonsoft-json@2.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 2.0.0
+      source: 1
+      resolvedPath: D:\Github\Tank-Game\TanksHW\Tanks-GD2-HW\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      assetPath: Packages/com.unity.nuget.newtonsoft-json
+      name: com.unity.nuget.newtonsoft-json
+      displayName: Newtonsoft Json
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: library
+      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
+        Currently synced to version 12.0.2.
+
+
+        This package is used for advanced
+        json serialization and deserialization. Most Unity users will be better suited
+        using the existing json tools built into Unity.
+
+        To avoid assembly
+        clashes, please use this package if you intend to use Newtonsoft Json.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.1.2
+        - 2.0.0
+        compatible:
+        - 1.1.2
+        - 2.0.0
+        verified: 2.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+        revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
